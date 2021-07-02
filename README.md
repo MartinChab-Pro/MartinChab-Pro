@@ -1,4 +1,27 @@
-### Hi there 👋
+
+# Hi there 👋
+Hi, my name is Martin, I'm 16 years old, I'm a young python developer and full stack web developer.
+
+# :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 Python developer
+- 💼 16 years
+- 🇫🇷 French
+- 🎮 Gammer
+
+## 📫 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜
+- 🖤 Github : [Click](https://github.com/HawksDev)
+- 💬 Discord : Hawks#4158
+
+## 🏆 𝚂𝚔𝚒𝚕𝚕𝚜
+- ![](https://img.shields.io/badge/DEV-Python-informational?style=flat&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/DEV-HTML-%232eb083?style=flat&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/DEV-CSS-%232eb083?style=flat&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/DEV-PHP-informational?style=flat&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logoColor=white&color=FF0000)
+- ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logoColor=white&color=FF0000)
+
+
+
 
 <!--
 **HawksDev/HawksDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
