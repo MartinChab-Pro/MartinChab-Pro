@@ -19,7 +19,7 @@ Hi, my name is Martin, I'm 17 years old, I'm a young python developer and full s
 - ![](https://img.shields.io/badge/DEV-PHP-informational?style=flat&logoColor=white&color=2bbc8a)
 - ![](https://img.shields.io/badge/DEV-JS-informational?style=flat&logoColor=white&color=2bbc8a)
 - ![](https://img.shields.io/badge/DEV-JAVA-informational?style=flat&logoColor=white&color=2bbc8a)
-- ![](https://img.shields.io/badge/DEV-C-informational?style=flat&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/DEV-C#-informational?style=flat&logoColor=white&color=2bbc8a)
 
 <img src="https://github.com/HawksDev/HawksDev/blob/main/SociableCleanErmine-max-1mb.gif">
 
