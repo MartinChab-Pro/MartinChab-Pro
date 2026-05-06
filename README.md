@@ -1,10 +1,10 @@
 
 # Hi there 👋
-Hi, my name is Martin, I'm 19 years old, I'm a young python developer and full stack web developer.
+Hi, my name is Martin, I'm 20 years old, I'm a young python developer and full stack web developer.
 
 # :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Python developer
-- 💼 19 years
+- 🖥 Developer
+- 💼 20 years
 - 🇫🇷 French
 - 🎮 Gammer
 
